@@ -30,6 +30,8 @@ Solicite **todas** as informações abaixo de uma vez:
 
 ---
 
+## Processo de Abertura de GmbH e Elaboração de Estatuto  
+
 ### Fluxo do Processo  
 ```mermaid
 flowchart TD
@@ -39,3 +41,30 @@ flowchart TD
     C -->|Não| E[Follow-up: telefone/correio]
     D --> F[Revisão com cliente]
     F --> G[Registro no cartório comercial]
+```
+
+### Métodos de Coleta  
+#### 1. **Formulário Digital** (Preferencial)  
+- Link para enviar ao cliente:  
+  ```  
+  [Formulário GmbH Online](https://exemplo.com/form-gmbh)  
+  ```  
+
+#### 2. **E-mail ou Correio**  
+- **Modelo de E-mail**:  
+  ```html
+  Assunto: Documentos necessários para sua GmbH  
+
+  Prezado(a),  
+  Segue a lista de informações para abrir sua GmbH:  
+  - Nome completo e AHV/Arrafal.  
+  - Endereço comercial.  
+  - Cópia do passaporte.  
+
+  Envie por:  
+  - E-mail (responda esta mensagem).  
+  - Correio para: [Endereço].  
+
+  Atenciosamente,  
+  Equipe Jurídica  
+  ```  
